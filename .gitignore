@@ -1,0 +1,38 @@
+# 编译产物
+*.exe
+*.dll
+*.pdb
+*.obj
+*.o
+*.lib
+*.a
+
+# .NET
+bin/
+obj/
+publish/
+
+# 运行日志
+*.log
+
+# WebView2 用户数据（可能缓存网页内容/敏感信息）
+*.WebView2/
+DshShell.exe.WebView2/
+
+# 编辑器/系统
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
+# 密钥与环境配置
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+credentials*.json
+credentials*.yaml
+credentials*.yml
