@@ -1,4 +1,4 @@
-# DeepSeek Harness Windows Launcher
+# DeepSeek Harness Windows Launcher For WSL
 
 在 Windows 上一键启动 WSL 中的 DeepSeek Harness，并用轻量 WebView2 外壳打开 Web UI。
 
